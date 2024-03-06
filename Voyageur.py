@@ -34,4 +34,5 @@ def trouver_plus_court_chemin(fichier_excel):
         print("Il n'y a pas de chemin entre la ville 1 et la ville n.")
 
 # Utilisation de la fonction en passant le nom du fichier Excel en tant qu'argument
+#Remplacer le path par le path de votre fichier excel sous format mentionne dans ReadMe file
 trouver_plus_court_chemin("C:/Users/pc/Desktop/Classeur1.xlsx")
